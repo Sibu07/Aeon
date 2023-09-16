@@ -24,3 +24,4 @@ jobs:
           HD_BOT_TOKEN: ${{secrets.BOT_TOKEN}}
           HD_UPSTREAM_REPO: "https://github.com/5hojib/Aeon"
           HD_UPSTREAM_BRANCH: "main"
+          HD_BASE_URL: "https://digidotty-0c4a64a93e95.herokuapp.com/"
